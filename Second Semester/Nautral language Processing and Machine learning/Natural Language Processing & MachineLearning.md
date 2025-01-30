@@ -1,3 +1,4 @@
+
 ### **FIRST MODULE**
 
 ### Introduction to Machine Learning (ML) and Natural Language Processing (NLP)
@@ -5,13 +6,6 @@
 Machine Learning (ML) is a subset of Artificial Intelligence (AI) that focuses on building systems that can learn from data and improve their performance over time without being explicitly programmed. Natural Language Processing (NLP) is a field of AI that focuses on the interaction between computers and humans through natural language. NLP enables machines to understand, interpret, and generate human language.
 
 In this detailed guide, we will explore the three main types of Machine Learning: **Supervised Learning**, **Unsupervised Learning**, and **Reinforcement Learning**. We will also touch on how these methods are applied in NLP.
-
-
-
-![[Pasted image 20250129103649.png]]
-
-
-
 
 ---
 
