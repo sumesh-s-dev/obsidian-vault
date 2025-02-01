@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second Semester/Web Programming with Python/Web Programming with Python.md",
+                "file": "Second Semester/Internet of Things(IoT)/IoT Communication Protocols and Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Programming with Python"
+              "title": "IoT Communication Protocols and Networking"
             }
           }
         ]
@@ -159,12 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a89a6d3f05790ae6",
+  "active": "60e5ddb39080ca08",
   "lastOpenFiles": [
-    "Second Semester",
+    "Second Semester/Internet of Things(IoT)/Introduction to IoT and Its Architecture.md",
+    "Second Semester/Internet of Things(IoT)/IoT Communication Protocols and Networking.md",
     "Second Semester/Web Programming with Python/Web Programming with Python.md",
-    "Second Semester/Web Programming with Python",
     "Second Semester/Nautral language Processing and Machine learning/Natural Language Processing & MachineLearning.md",
+    "Second Semester/Internet of Things(IoT)",
+    "Second Semester",
+    "Second Semester/Web Programming with Python",
     "Second Semester/Nautral language Processing and Machine learning",
     "Welcome.md",
     "Pasted image 20250129103649.png",
