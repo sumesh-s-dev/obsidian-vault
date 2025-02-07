@@ -218,14 +218,14 @@ Bluetooth is a short-range wireless communication protocol used for device-to-de
 
 Different IoT communication protocols serve different purposes depending on requirements such as range, power consumption, and data rate.
 
-|Protocol|Range|Power Consumption|Data Rate|Use Case|
-|---|---|---|---|---|
-|MQTT|Unlimited (via internet)|Low|Medium|Cloud-based IoT, monitoring|
-|CoAP|LAN|Very low|Low|Smart homes, automation|
-|HTTP|Unlimited (via internet)|High|High|Web APIs, cloud integration|
-|LoRa|Up to 15 km|Very low|Low|Smart agriculture, tracking|
-|Zigbee|10-100m|Low|Medium|Smart home, automation|
-|Bluetooth|10-100m|Low (BLE)|Medium|Wearables, health monitoring|
+| Protocol  | Range                    | Power Consumption | Data Rate | Use Case                     |
+| --------- | ------------------------ | ----------------- | --------- | ---------------------------- |
+| MQTT      | Unlimited (via internet) | Low               | Medium    | Cloud-based IoT, monitoring  |
+| CoAP      | LAN                      | Very low          | Low       | Smart homes, automation      |
+| HTTP      | Unlimited (via internet) | High              | High      | Web APIs, cloud integration  |
+| LoRa      | Up to 15 km              | Very low          | Low       | Smart agriculture, tracking  |
+| Zigbee    | 10-100m                  | Low               | Medium    | Smart home, automation       |
+| Bluetooth | 10-100m                  | Low (BLE)         | Medium    | Wearables, health monitoring |
 
 Each protocol has strengths and weaknesses, and the choice depends on the specific IoT application requirements.
 

@@ -1,4 +1,3 @@
-
 ### **FIRST MODULE**
 
 ### Introduction to Machine Learning (ML) and Natural Language Processing (NLP)
